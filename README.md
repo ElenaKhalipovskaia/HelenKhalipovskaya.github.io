@@ -1,2 +1,2 @@
-# HelenKhalipovskaya.github.io
+# HelenKhalipovskaia.github.io
 Сайт визитка HTML, CSS
